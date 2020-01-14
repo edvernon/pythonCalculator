@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/edvernon/Desktop/untitled/main.cpp
+calc.h
+/Users/edvernon/Desktop/untitled/calc.h
+logger.h
+/Users/edvernon/Desktop/untitled/logger.h
+
